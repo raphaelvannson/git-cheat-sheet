@@ -42,6 +42,11 @@ $ git clone <url>
 ```
 
 
+## Gitignore
+
+Get rid of the dreaded `.DS_Store` files using: [https://gist.github.com/lohenyumnam/2b127b9c3d1435dc12a33613c44e6308](https://gist.github.com/lohenyumnam/2b127b9c3d1435dc12a33613c44e6308)
+
+
 ## Branches
 
 ### Misc
