@@ -100,6 +100,7 @@ $ git push -u origin <branch-name>
 Get a branch from remote
 
 ```bash
+$ git pull
 $ git checkout -b <branch-name> origin/<branch-name>
 ```
 
